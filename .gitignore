@@ -1,0 +1,12 @@
+**/__pycache__/
+.venv/
+.pytest_cache/
+data/embeddings.npz
+results/
+report/*.aux
+report/*.log
+report/*.bbl
+report/*.blg
+report/*.fls
+report/*.fdb_latexmk
+report/*.out
